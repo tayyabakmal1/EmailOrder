@@ -1,5 +1,6 @@
 {
   "name": "EmailOrder",
+  "id": "botble/EmailOrder",
   "namespace": "Botble\\EmailOrder\\",
   "provider": "Botble\\EmailOrder\\Providers\\EmailOrderServiceProvider",
   "author": "Tayyab Akmal",
