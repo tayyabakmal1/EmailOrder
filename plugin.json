@@ -1,0 +1,14 @@
+{
+  "name": "EmailOrder",
+  "id": "botble/EmailOrder",
+  "namespace": "Botble\\EmailOrder\\",
+  "provider": "Botble\\EmailOrder\\Providers\\EmailOrderServiceProvider",
+  "author": "Tayyab Akmal",
+  "version": "1.0.0",
+  "description": "Send templated or custom emails to customers from the order detail page.",
+  "autoload": {
+    "psr-4": {
+      "Botble\\EmailOrder\\": "src/"
+    }
+  }
+} 
